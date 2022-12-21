@@ -2,7 +2,7 @@
 
 Track the location of a plane in real-time using the ADS-B Exchange API and ourairports.com.
 
-Screenshot of Flight Tracker website
+
 **How to Use**
 
     Clone or download the repository.
